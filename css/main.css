@@ -1,0 +1,91 @@
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+#logo {
+    width: 300px;
+}
+.navbar {
+    text-align: center;
+    margin-bottom: 0;
+    border: none;
+}
+.navbar-header {
+background-color: #f4f4f4;
+float: none;
+}
+
+.navbar .navbar-nav {
+display: inline-block;
+float: none;
+}
+.navbar-default .navbar-nav li a {
+    color: #ff7a31;
+}
+
+#navbar-collapse-menu {
+    padding: 0;
+    background-color: #9c1f91;
+}
+
+.navbar-brand.logo{
+    float: none;
+    padding: 0;
+    margin: 0;
+}
+.carousel-inner .item img {
+    height: 800px;
+    width: 1900px;
+}
+
+iframe {
+    border:none;
+    overflow:hidden;
+    width:220px;
+    height:220px
+}
+
+#instagram {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    top: 0;
+    left: 0;
+}
+
+#boxOne {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    max-width: 1040px;
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+#boxTwoo {
+    border:none;
+    overflow:hidden;
+    width:300px;
+    position: absolute;
+    top: 550px;
+    left: 900px;
+    max-width: 1040px;
+}
+
+#mediaButton li {
+    list-style: none;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
